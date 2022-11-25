@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp1
-{
-    class README
-    {
         #Задание
         напишите программу ,которая из имеющегося массива строк формирует массив строк,
         длинна которых меньше или равна 3 символа. Первоночальный массив можно ввести с клавиатуры , либо задать на старте 
@@ -37,6 +28,8 @@ namespace ConsoleApp1
 
 
         # Блок-Схема 
+        https://github.com/Fedott16319/final-theoretical-task/blob/main/ConsoleApp1/Блок-схема.png
+        
        
      }
 }
