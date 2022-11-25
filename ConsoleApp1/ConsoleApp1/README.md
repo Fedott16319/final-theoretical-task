@@ -17,7 +17,7 @@
 
 
         ## Просмотр программы можно посмотреть в
-        [Program.cs](https://github.com/Fedott16319/final-theoretical-task/blob/main/ConsoleApp1/ConsoleApp1/Program.cs)
+       [a link] [Program.cs](https://github.com/Fedott16319/final-theoretical-task/blob/main/ConsoleApp1/ConsoleApp1/Program.cs)
 
 
         Примеры решения программы:
